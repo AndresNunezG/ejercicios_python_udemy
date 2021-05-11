@@ -1,5 +1,5 @@
 """
-Ejercicio 13.
+Ejercicio 12.
     - Comprobar si una variable tipo string está vacía
     - Si lo está completarlo con un texto en minísculas
     - Mostrar este texto en mayúsculas
