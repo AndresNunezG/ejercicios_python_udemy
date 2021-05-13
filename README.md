@@ -10,6 +10,8 @@ En estos scripts de python presento mi solución a ejercicios
 
 Los enunciados de los ejericios con su correspondiente nombre de archivo son:
 
+## Ejercicios propuestos en el curso de Victor Robles
+
 ### ejercicio_01.py
 ### Ejercicio1.
     - Crear variables: "pais" y "continente"
@@ -100,3 +102,23 @@ Se aprueba con 3.0
     COD     CRASH    GTSport  GTSport
     PUBG    GOW      FIFA21   AssetoCorsa
     GTA     DBZ      NBA20    RealRacing3
+
+## Ejercicios propuestos en el curso de Nicolas Schürmann
+
+### ejercicio_15.py
+### Ejercicio 15.
+    - Solicitar dos números al usuario
+    - Multiplicar dos números sin usar el símbolo de multiplicació '*'
+    - Mostrar el resultado por pantalla
+
+### ejercicio_16.py
+### Ejericio 16.
+    - Solicitar al usuario un texto o cadena de caracteres
+    - Devolver en pantalla el texto de entrada al revés:
+    Ej:
+    Entrada: 'hola'
+    Salida: 'aloh'
+
+### ejercicio_17.py
+### Ejercicio 17.
+    - Escribir una lista que encuentre el menor número de una lista
