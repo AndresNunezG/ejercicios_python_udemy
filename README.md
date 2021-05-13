@@ -122,3 +122,20 @@ Se aprueba con 3.0
 ### ejercicio_17.py
 ### Ejercicio 17.
     - Escribir una lista que encuentre el menor número de una lista
+
+### ejercicio_18.py
+### Ejercicio 18.
+    Escribir una función que devuelva el volumen de una esfera por su radio
+    4/3 * pi * r ^ 3
+    - Solicitar al usuario el radio de la esfera
+    - Calcular el volumen de la esfera
+    - Mostrar el resultado
+
+### ejercicio_19.py
+### Ejercicio 19.
+    - Escribir una función lambda que indique si el usuario es mayor de edad
+    - Escribir una función lambda que indique si un número es par o impar
+
+### ejercicio_20.py
+### Ejercicio 20.
+    - Escribir una función que indique cuantas vocales tiene una palabra
