@@ -11,6 +11,7 @@ En estos scripts de python presento mi solución a ejercicios
 Los enunciados de los ejericios con su correspondiente nombre de archivo son:
 
 ## Ejercicios propuestos en el curso de Victor Robles
+### [link!](https://www.udemy.com/course/master-en-python-aprender-python-django-flask-y-tkinter/)
 
 ### ejercicio_01.py
 ### Ejercicio1.
@@ -104,6 +105,7 @@ Se aprueba con 3.0
     GTA     DBZ      NBA20    RealRacing3
 
 ## Ejercicios propuestos en el curso de Nicolas Schürmann
+### [link!](https://www.udemy.com/course/python-sin-fronteras-html-css-mysql/)
 
 ### ejercicio_15.py
 ### Ejercicio 15.
@@ -139,3 +141,14 @@ Se aprueba con 3.0
 ### ejercicio_20.py
 ### Ejercicio 20.
     - Escribir una función que indique cuantas vocales tiene una palabra
+
+### ejercicio_21.py
+### Ejercicio 20.
+    - Escribir una aplicación que reciba una cantidad infinita de números hasta el usuario escriba 'basta'
+    - El recibir el stop, devolver la suma de los números ingresados
+
+### ejercicio_22.py
+### Ejercicio 22.
+    - Recibir nombre y apellido del usuario
+    - Agregar información recibida al archivo de texto
+    - Parar la recepción de nombres si se agrega apellido y/o nombre 'stop! 
